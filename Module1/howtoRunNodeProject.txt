@@ -1,0 +1,7 @@
+To run node project instructions
+1. Install Node : npm Install
+2. Check if its install or not: node -v
+3. create folder and create file hello.js and with console.log('some tex')
+4. go to the file with command line
+5. Run the JS file with Command: node hello.js 
+6. Done!
